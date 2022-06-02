@@ -10,3 +10,4 @@
 - 🤙 If you are interested in my profile, feel free to get in touch!
 
 contact: fsargiottodev@gmail.com
+linkedin: https://www.linkedin.com/in/facundosargiotto/
